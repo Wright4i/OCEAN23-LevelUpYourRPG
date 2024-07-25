@@ -1,6 +1,6 @@
 ### OCEAN23-LevelUpYourRPG
 
-# Level Up Your RPG in Python
+# Level Up Your RPG with Python
 
 Presentation at OCEAN User Group 7/28/2023
 
